@@ -55,7 +55,7 @@ driver.switch_to.frame(frame)
 
 mob = driver.find_element_by_id("mobile")
 
-#use click and clear if element doesnot send keys
+#use click and clear if element does not send keys.
 #mob.click()
 #mob.clear()
 mob.send_keys("8122357897")
