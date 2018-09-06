@@ -67,16 +67,3 @@ message.send_keys(scorinfo)
 
 smsbtn = driver.find_element_by_css_selector(".button.br2up")
 smsbtn.click()
-
-
-
-
-
-
-
-
-
-
-
-
-
